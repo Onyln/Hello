@@ -1,0 +1,36 @@
+{
+  "hello": [
+    "Hello there! 👋",
+    "Hi! How are you doing?",
+    "Hey! Welcome!"
+  ],
+  "thanks": [
+    "You're welcome! 😊",
+    "No problem!",
+    "Happy to help!"
+  ],
+  "help": [
+    "Need help? Use `!help` to see available commands!",
+    "I'm here to help! Try `!help`"
+  ],
+  "good morning": [
+    "Good morning! ☀️",
+    "Morning! Have a great day!"
+  ],
+  "good night": [
+    "Good night! 🌙",
+    "Sweet dreams!",
+    "Sleep well!"
+  ],
+  "how are you": [
+    "I'm doing great! Thanks for asking 😊",
+    "I'm fine, how about you?"
+  ],
+  "bot": [
+    "Yes, I'm a bot! 🤖",
+    "Beep boop! I'm a helpful bot!"
+  ],
+  "ping": [
+    "Pong! 🏓"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "welcome_channel_id": null,
+  "log_channel_id": null,
+  "mute_role_name": "Muted",
+  "max_giveaway_duration": 7200,
+  "tts_max_length": 200
+}
